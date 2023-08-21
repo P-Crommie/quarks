@@ -1,4 +1,4 @@
-# Quarkus Readme
+# Quarkus
 
 Welcome to the Quarkus project! This repository contains the source code and configuration for the Quarkus application, along with a GitHub Actions workflow for Continuous Integration (CI) and Continuous Deployment (CD).
 
